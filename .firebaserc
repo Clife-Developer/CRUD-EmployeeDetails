@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "crud-apps-bd2b0"
+  },
+  "targets": {
+    "crud-apps-bd2b0": {
+      "hosting": {
+        "CustomerDetails": [
+          "crud-apps-bd2b0"
+        ]
+      }
+    }
+  }
+}
